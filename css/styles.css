@@ -1,12 +1,14 @@
 /* Importing a Google Font */
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
+  @import url("https://use.typekit.net/ops7twc.css");
 
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	font-family: bilo, sans-serif;
+font-weight: 500;
+font-style: normal;
+	background-color: #f3eeea;
 }
 
 /* Changing the background colour for the header */
@@ -18,7 +20,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #2dbbaa;
 }
 
 /* Effect on social media buttons */
@@ -32,4 +34,9 @@ footer a:hover {
 #navbar-corporate a.active {
 	color: #800000;
 	font-weight: bold;
+}
+.craze{
+font-family: chaloops, sans-serif;
+font-weight: 700;
+font-style: normal;
 }
